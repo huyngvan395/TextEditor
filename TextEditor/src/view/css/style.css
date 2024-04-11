@@ -1,0 +1,27 @@
+.tab_pane{
+    -fx-padding: 0;
+}
+.menu_bar{
+    -fx-font-size: 16px;
+    -fx-padding: 0;
+}
+.text_area{
+    -fx-border: none;
+}
+.name_tab{
+    -fx-font-family: Arial;
+    -fx-font-size: 15px;
+    -fx-padding:0 2px ;
+    -fx-tab-min-width: 80px;
+}
+.button{
+    -fx-background-color: transparent;
+    -fx-border-width: 0;
+    -fx-background-insets: 0;
+    -fx-padding: 2px;
+    -fx-cursor: pointer;
+}
+.button:hover{
+    -fx-background-color: #9d1111;
+    -fx-text-fill: #fff;
+}
